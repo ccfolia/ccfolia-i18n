@@ -20,8 +20,7 @@
   "C(計算式）で計算だけの実行も可能": "It is also possible to execute only calculation with C (calculation formula)",
   "Copy Id (for dev)": "",
   "D100で50％目標の下方ロールの例": "Example of downward roll of 50% target at D100",
-  "D66ダイス。順序はゲームに依存（D66N：そのまま、D66S：昇順）": "
-  D66 dice. The order depends on the game (D66N: as is, D66S: ascending order)",
+  "D66ダイス。順序はゲームに依存（D66N：そのまま、D66S：昇順）": "D66 dice. The order depends on the game (D66N: as is, D66S: ascending order)",
   "ETC": "",
   "GM駒などステータス管理が必要ないもの": "GM pieces and other items that do not require status management",
   "Google連携": "Link with Google",
@@ -210,7 +209,7 @@
   "匿名ユーザー": "Guest user",
   "参照URL": "Reference URL",
   "参照URLを開く": "Open the reference URL",
-  "各コマンドの先頭に「S」を付けると他人には見えないシークレットロール": "If you add "S" to the beginning of each command, the secret roll will not be visible to others.",
+  "各コマンドの先頭に「S」を付けると他人には見えないシークレットロール": "If you add 'S' to the beginning of each command, the secret roll will not be visible to others.",
   "名前": "Name",
   "回転する": "Rotate",
   "地形パネルとして扱う": "As a plane panel",
