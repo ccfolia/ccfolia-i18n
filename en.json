@@ -199,7 +199,7 @@
   "利用できないURLです。": "Unavailable URL.",
   "利用規約": "User policy",
   "削除": "Delete",
-  "削除されたアカウントは復旧できません。ルームデータやアップロードされたファイルなど全て利用できなります。": "Deleted accounts cannot be recovered. All room data and uploaded files can be used.",
+  "削除されたアカウントは復旧できません。ルームデータやアップロードされたファイルなど全て利用できなくなります。": "Deleted accounts cannot be recovered. All room data and uploaded files can be used.",
   "削除コマンド": "Delete command",
   "前景": "Foreground",
   "前景・背景を変更": "Change the foreground and background",
